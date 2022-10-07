@@ -2,5 +2,5 @@
 Code and datasets of our paper "Intent Disentanglement and Feature Self-supervision for Novel Recommendation" accepted by TKDE 2022.
 ## Usage
 ## Requirements
-1.发广告
-1.的方式
+- python 3.7
+- pytorch 1.9.0
