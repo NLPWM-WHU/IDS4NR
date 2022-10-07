@@ -9,3 +9,5 @@ python train_all_longtail_bidesen_2.py
 ## Requirements
 - python 3.7
 - pytorch 1.9.0
+## Citation
+If you use the code in your paper, please kindly star this repo and cite our paper
